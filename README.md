@@ -1,5 +1,5 @@
 # RC_boat
-This was a summer project in which I built and programmed a remote controlled boat from scratch.
+This was a project in which I built and programmed a remote controlled boat from scratch during the summer of 2019.
 
 There were no specific goals or requirements I had in mind for this boat, more of an experimentation and expression of my knowledge.
 The boat itself had a single Arduino Uno onboard for processing, while the remote controller was another Arduino Uno that received signals via an Android app.
