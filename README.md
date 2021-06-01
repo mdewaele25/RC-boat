@@ -13,3 +13,17 @@ The boat could operate in any gentle water up to a range of roughly 40-50 feet. 
 Future improvements are to install larger motors to increase the top speed, improve the robustness of the transmitter and receiver to allow for a farther operational range, and overall improve the water-proofing onboard the boat.
 
 Additionally, there was occasional signal loss which resulted in a complete loss of control of the boat.  This was investigated thoroughly, but was never fixed.  This will need to be fixed before taking the boat in larger bodies of water.
+
+[Link to a short video](https://youtu.be/q16YMKoBCYA)
+This video is a short demonstration of the capabilities of the boat.  The boat was tested in a pool before being taken to a small pond once condifence and robustness was increased to a comfortable level.  At the end of the video you can see that my partner is holding his Android device that was using an app to control the boat.  While we still upgraded the boat for several weeks after this video was taken, the video is a fair assessment of the final performance of the boat.   
+
+<center>
+<img src="./Boat1.png">
+<br />
+<img src="./Boat2.png">
+<br />
+<img src="./Boat3.png">
+<br />
+<img src="./Controller.png">
+<br />
+</center>
