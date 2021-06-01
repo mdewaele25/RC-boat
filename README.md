@@ -1,3 +1,5 @@
+[Home](https://mdewaele25.github.io/)
+
 # RC_boat
 This was a project in which I built and programmed a remote controlled boat from scratch during the summer of 2019.
 
