@@ -18,12 +18,12 @@ Additionally, there was occasional signal loss which resulted in a complete loss
 This video is a short demonstration of the capabilities of the boat.  The boat was tested in a pool before being taken to a small pond once condifence and robustness was increased to a comfortable level.  At the end of the video you can see that my partner is holding his Android device that was using an app to control the boat.  While we still upgraded the boat for several weeks after this video was taken, the video is a fair assessment of the final performance of the boat.   
 
 <center>
-<img src="./Boat1.png">
+<img src="./Boat1.jpg">
 <br />
-<img src="./Boat2.png">
+<img src="./Boat2.jpg">
 <br />
-<img src="./Boat3.png">
+<img src="./Boat3.jpg">
 <br />
-<img src="./Controller.png">
+<img src="./Controller.jpg">
 <br />
 </center>
