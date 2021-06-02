@@ -18,6 +18,8 @@ Additionally, there was occasional signal loss which resulted in a complete loss
 
 This video is a short demonstration of the capabilities of the boat.  The boat was tested in a pool before being taken to a small pond once condifence and robustness was increased to a comfortable level.  At the end of the video you can see that my partner is holding his Android device that was using an app to control the boat.  While we still upgraded the boat for several weeks after this video was taken, the video is a fair assessment of the final performance of the boat.   
 
+The pictures below are up-to-date visuals of both the boat and the controller.  It can be observed that everything is made from scratch using individual parts, rather than a premade kit.  The boat was powered by 6 AA batteries which powered the Arduino and therefore the two motors.  The last picture is the controller board that would rest close to the Android device that was connected via bluetooth.  The two boards would then communicate via Arduino transmitter and receiver to complete the communication system.
+
 <center>
 <img src="./Boat1.jpg">
 <br />
